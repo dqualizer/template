@@ -13,3 +13,5 @@ jobs:
 
     steps:
       - uses: Levi-Lesches/blocking-issues@v2
+        with:
+          token: ${{ secrets.ADD_ISSUES_TO_PROJECTS_PAT }}
