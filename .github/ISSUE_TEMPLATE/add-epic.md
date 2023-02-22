@@ -1,7 +1,7 @@
 ---
-name: Add an epic
-about: Add an epic as an issue and link issues with checkboxes.
-title: ''
+name: Add epic
+about: Creates an epic as an issue and links issues with checkboxes
+title: "[Epic] -"
 labels: epic
 assignees: ''
 
