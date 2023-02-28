@@ -30,6 +30,18 @@ Shows data associated with a date or an iteration.
 
 ### Items
 
+#### View Items
+Click on the item to get an overview over an issue.
+![image](https://user-images.githubusercontent.com/33718194/221812505-3ca30848-2ccf-4e04-89c6-fca62401edcf.png)
+![image](https://user-images.githubusercontent.com/33718194/221812540-fb9513f1-101a-4207-ac0a-62270b63a601.png)
+
+#### Edit Items
+Just drag and drop items into the specific colmuns or rows.
+
+#### Edit Issue
+Navigate to the issue. On the right select the project and choose the values. This is equivalent to dragging and dropping items in the views.
+![image](https://user-images.githubusercontent.com/33718194/221818569-542fd8df-f605-4e24-88e6-453d262b84fc.png)
+
 ### Views
 
 #### Configure views
@@ -48,6 +60,12 @@ Change the field that is used to display the columns
 Filter the issues that are shown in the view. (e.g. filter by field status:"🏃 Sprint Backlog" estimate:* or filter by label label:concept)
 ![image](https://user-images.githubusercontent.com/33718194/221808582-982835fe-ffc2-40e2-891a-fa8ece289b4b.png)
 
+### Workflows
+
+Activate a workflow to get an automation on specific events. More [workflows](.github/workflows)
+![image](https://user-images.githubusercontent.com/33718194/221816769-5cbed6aa-a5fc-4fbe-84ef-97cd3ba63440.png)
+More [customization](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/using-the-api-to-manage-projects)
+
 ### Settings
 
 #### Navigate to settings.
@@ -59,22 +77,19 @@ Filter the issues that are shown in the view. (e.g. filter by field status:"🏃
 
 ![image](https://user-images.githubusercontent.com/33718194/221804936-10ef91e2-2cf0-4459-af7f-e4870e379175.png)
 
-#### Edit Custom fields
+##### Edit Custom fields
 
 Edit a custom field by clicking on it and setting new values in field settings.
 ![image](https://user-images.githubusercontent.com/33718194/221805084-7371d72b-63a3-4cac-867e-070919e4a7e2.png)
 ![image](https://user-images.githubusercontent.com/33718194/221805197-6a148b94-3aed-4300-9c74-8a0eab30c8cc.png)
 
-#### Field type single select
+##### Field type single select
 
 Create a selection with options that can be used to create kanban boards in the project (used for status, planning poker, ...).
 ![image](https://user-images.githubusercontent.com/33718194/221806267-72dac012-2a5d-49e2-ac42-84d99286c598.png)
 ![image](https://user-images.githubusercontent.com/33718194/221806289-b7406b6c-96e4-4688-9619-a03946f555e0.png)
 
-#### Field type iteration
+##### Field type iteration
 
 Creates an iteration with a date range (for example 2 weeks). Each iteration gets its own field. Can be used for planning sprint weeks. In the roadmap an iteration can be used to define a date range.
 ![image](https://user-images.githubusercontent.com/33718194/221806798-1522c508-9a08-4eec-8afe-610b0feeae50.png)
-
-
-
