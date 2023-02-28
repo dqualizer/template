@@ -6,8 +6,6 @@ labels: "epic"
 assignees: ""
 ---
 
-# {title}
-
 ## Rationale
 
 ## Owner

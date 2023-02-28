@@ -6,8 +6,6 @@ labels: "subtask"
 assignees: ""
 ---
 
-# {title}
-
 ## Goal
 
 ## Description

@@ -6,8 +6,6 @@ labels: "user-story"
 assignees: ""
 ---
 
-# {title}
-
 ## Story
 
 As a USER who PRECONDITIONS, I want to DO_THING so I can ACCOMPLISH_GOAL.
