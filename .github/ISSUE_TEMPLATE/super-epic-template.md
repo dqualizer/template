@@ -12,9 +12,14 @@ assignees: ""
 
 ## Epics
 
-- [ ] Epic#1
-- [ ] Epic#2
-- [ ] Epic#3
+- [ ] Epic one
+- [ ] Epic two
+- [ ] Epic three
+
+## Dependencies
+
+- Blocked by Epic one
+- Blocked by Epic two
 
 ## Additional context
 

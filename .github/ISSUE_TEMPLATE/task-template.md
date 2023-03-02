@@ -12,9 +12,14 @@ assignees: ""
 
 ## User Story
 
-- [ ] user-story#1
-- [ ] user-story#2
-- [ ] user-story#3
+- [ ] user-story one
+- [ ] user-story two
+- [ ] user-story three
+
+## Dependencies
+
+- Blocked by issue one
+- Blocked by issue two
 
 ## Additional context
 

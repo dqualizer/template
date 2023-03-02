@@ -18,9 +18,9 @@ As a USER who PRECONDITIONS, I want to DO_THING so I can ACCOMPLISH_GOAL.
 
 ## Dependencies
 
-- [ ] Blocked by #Issue1
-- [ ] Blocked by #Issue2
-- [ ] Blocked by #Issue3
+- [ ] Blocked by issue one
+- [ ] Blocked by issue two
+- [ ] Blocked by issue three
 
 ## Additional context
 

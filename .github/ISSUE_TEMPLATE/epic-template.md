@@ -14,9 +14,9 @@ assignees: ""
 
 ## Dependencies
 
-- Blocked by Issue#1
-- Blocked by Issue#2
-- Blocked by Issue#3
+- Blocked by Issue one
+- Blocked by Issue two
+- Blocked by Issue three
 
 ## Description
 
@@ -25,8 +25,8 @@ assignees: ""
 ## Issues
 
 - [ ] Issue one
-- [ ] issue two
-- [ ] issue three
+- [ ] Issue two
+- [ ] Issue three
 
 ## Acceptance criteria
 
