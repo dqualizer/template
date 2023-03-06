@@ -28,4 +28,4 @@ What are potential negative consequences and disadvantages of this decision?
 
 ## Alternatives (optional)
 
-A list of the alternative options considered, along with the reasons they were not selected.
+What are alternative options considered, along with the reasons they were not selected?
